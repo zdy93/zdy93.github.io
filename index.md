@@ -1,4 +1,5 @@
 # Dongyu Zhang
+[Email](dzhang5@wpi.edu) [Github](https://github.com/zdy93) [linkedin](https://www.linkedin.com/in/dongyuzhang93/) [orcid](https://orcid.org/0000-0003-2099-5837) [Google Scholar](https://scholar.google.com/citations?user=jBvRff0AAAAJ)
 
 Hello! I'm currently pursuing my PhD in Data Science at Worcester Polytechnic Institute (WPI). My research primarily focuses on natural language processing, sequence representation learning, multi-task learning, and learning with noisy labels. For a detailed overview of my academic and research accomplishments, please view my CV [here](/assets/document/DongyuZhangCV-brief.pdf).
 
