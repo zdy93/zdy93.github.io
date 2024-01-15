@@ -1,32 +1,30 @@
 # Dongyu Zhang
 
-Hi! I am a PhD candidate in Data Science at Worcester Polytechnic Institute (WPI). My research is mainly focus on Natural Language Processing techniques. 
+Hello! I'm currently pursuing my PhD in Data Science at Worcester Polytechnic Institute (WPI). My research primarily focuses on natural language processing, sequence representation learning, multi-task learning, and learning with noisy labels. For a detailed overview of my academic and research accomplishments, please view my CV [here](/assets/document/DongyuZhangCV-brief.pdf).
 
-### Publication
+## Publications
 
-See my [Google Scholar Page](https://scholar.google.com/citations?user=jBvRff0AAAAJ)
+Please view this [page](publication.html).
 
 ## Education
 - **Worcester Polytechnic Institute (WPI), Worcester, MA**
   - *Aug. 2018 – Present*
   - **Ph.D. in Data Science**
-  - GPA: 4.000/4.000
   
 
 - **The University of Texas at Dallas (UTDallas), Richardson, TX**
   - *Aug. 2016 – May. 2018*
   - **M.Science in Business Analytics**
-  - GPA: 3.917/4.000
 
 
 - **Beijing Forestry University (BJFU), Beijing, China**
   - *Sep. 2012 – Jun. 2016*
   - **B.Economics in Statistics**
-  - GPA: 89.13/100
   - **B.Science in Computer Science & Technology (Minor)**
+  
 
 
-## Research Experiences
+## Research Experience
 - **Fact: Innovative Big Data Analytics Technology for Microbiological Risk Mitigation Assuring Fresh Produce Safety, WPI & University of Illinois Urbana-Champaign**  
   *Sep. 2020 – Present*  
   Advisor: Prof. Elke Rundensteiner & Prof. Hao Feng  
