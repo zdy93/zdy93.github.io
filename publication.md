@@ -1,4 +1,4 @@
-## Publication
+## Publications
 ### CoLafier: Collaborative Noisy Label Purifier With Local Intrinsic Dimensionality Guidance.
 - **Dongyu Zhang**, Ruofan Hu, Elke Rundensteiner. *Proceedings of the 2024 SIAM International Conference on Data Mining (SDM). 2024.*
 - [paper](/assets/document/SDM_2024_CoLafier.pdf) [repo](https://github.com/zdy93/CoLafier)
