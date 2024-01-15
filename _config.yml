@@ -1,14 +1,4 @@
 theme: jekyll-theme-minimal
 title: Dongyu Zhang
+logo: /assets/img/profile.jpg
 description: Welcomes to know more about Dongyu Zhang!
-
-# Site Author
-author:
-  name             : "Dongyu Zhang"
-  avatar           : "/assets/img/profile.jpg"
-  location         : "Worcester, MA"
-  github           : "https://github.com/zdy93"
-  linkedin         : "https://www.linkedin.com/in/dongyuzhang93/"
-  orcid            : "https://orcid.org/0000-0003-2099-5837"
-  googlescholar    : "https://scholar.google.com/citations?user=jBvRff0AAAAJ"
-  email            : "dzhang5@wpi.edu"
