@@ -2,7 +2,7 @@
 ## Publications
 ### Extracting Semantic Topics about Development in Africa from Social Media.
 - Harriet Sibitenda, Awa Diattara, Assitan Traore, Ruofan Hu, **Dongyu Zhang**, Elke Rundensteiner, Cheikh Ba. *IEEE Access. 2024.*
-- [[paper]]()
+- [[paper]](assets/document/Access_2024_Extracting.pdf)
 
 ### CoLafier: Collaborative Noisy Label Purifier With Local Intrinsic Dimensionality Guidance.
 - **Dongyu Zhang**, Ruofan Hu, Elke Rundensteiner. *Proceedings of the 2024 SIAM International Conference on Data Mining (SDM). 2024.*
