@@ -1,16 +1,20 @@
-Hello! My name is Dongyu. I'm currently pursuing my PhD in Data Science at Worcester Polytechnic Institute (WPI), working in [DAISY](https://daisy.wpi.edu/) lab with [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst). My research primarily focuses on natural language processing, sequence representation learning, multi-task learning, and learning with noisy labels.
+Hello! I'm Dongyu, currently working at ByteDance Inc. in the AML-Enterprise-Machine Learning Platform. I earned my PhD in Data Science from Worcester Polytechnic Institute (WPI), where I conducted research in the [DAISY Lab](https://daisy.wpi.edu/) under the supervision of [Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst). My research expertise lies in Large Language Models (LLM), prompt engineering, and natural language processing (NLP).
 
 ## Publications
+For a list of my publications, please visit this [page](publication.html).
 
-Please view this [page](publication.html).
+## Work Experience
+- **ByteDance Inc, San Jose, CA**
+  - *Jul. 2024 - Present*
+  - **LLM Researcher/Engineer** 
 
 ## Education
-- **Worcester Polytechnic Institute (WPI), Worcester, MA**
-  - *Aug. 2018 – Present*
+- **Worcester Polytechnic Institute (WPI), Worcester, MA, USA**
+  - *Aug. 2018 – May. 2024*
   - **Ph.D. in Data Science**
   
 
-- **The University of Texas at Dallas (UTDallas), Richardson, TX**
+- **The University of Texas at Dallas (UTDallas), Richardson, TX, USA**
   - *Aug. 2016 – May. 2018*
   - **M.Science in Business Analytics**
 
