@@ -26,7 +26,7 @@ For a list of my publications, please visit this [page](publication.html).
 
 ## Research Experience
 - **Fact: Innovative Big Data Analytics Technology for Microbiological Risk Mitigation Assuring Fresh Produce Safety, WPI & University of Illinois Urbana-Champaign**  
-  *Sep. 2020 – Present*  
+  *Sep. 2020 – May. 2024*  
   Advisor: Prof. Elke Rundensteiner & Prof. Hao Feng  
   - Created Tweet-FID, the first public dataset for multi-task foodborne illness detection.
   - Employed LLMs, using the Chain of Thought method, to generate labels for unlabeled tweet data.
@@ -42,7 +42,7 @@ For a list of my publications, please visit this [page](publication.html).
 - **Time-Aware Network for Clinical Notes Series Prediction, WPI**  
   *Sep. 2019 – May. 2020*  
   Advisor: Prof. Elke Rundensteiner  
-  - Crafted a transformer-based method to classify a patient’s health state based on clinical note series.
+  - Crafted a transformer-based method to classify a patient's health state based on clinical note series.
 
 ## Internship Experience
 - **Research Scientist Intern, Visa Inc.**  
@@ -52,7 +52,7 @@ For a list of my publications, please visit this [page](publication.html).
 
 - **Data Analyst Intern, Shanghai PnR Data Service Co., Ltd.**  
   *May. 2017 – July. 2017*
-  - Optimized a method for posts’ themes classification and replies’ emotion tendency analysis.
+  - Optimized a method for posts' themes classification and replies' emotion tendency analysis.
   - Refined bank card character extraction algorithm.
   - Developed a method for information extraction from National ID card.
 
