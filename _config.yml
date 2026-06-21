@@ -1,4 +1,7 @@
-remote_theme: BDHU/minimalist
+# Pinned to the last commit before the theme switched to Sass @use syntax
+# (2026-06-07), which GitHub Pages' libsass build cannot compile. See:
+# https://github.com/BDHU/minimalist/commits/main
+remote_theme: BDHU/minimalist@f19d6a6ef015ba93c5aee9ce80339e4959b0ffa7
 title: Dongyu Zhang
 favicon: true
 logo: /assets/img/profile.jpg
