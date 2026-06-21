@@ -14,6 +14,10 @@
 - [[Dissertation]](assets/document/Dongyu_Dissertation_ETD_submission_final.pdf)
 
 
+### LLM-based Hierarchical Label Annotation for Foodborne Illness Detection on Social Media.
+- **Dongyu Zhang**, Ruofan Hu, Dandan Tao, Hao Feng, Elke Rundensteiner. *2024 IEEE International Conference on Big Data (Big Data). 2024.*
+- [[paper]](/assets/document/BigData_2024_ICL2FID.pdf)
+
 ### Extracting Semantic Topics about Development in Africa from Social Media.
 - Harriet Sibitenda, Awa Diattara, Assitan Traore, Ruofan Hu, **Dongyu Zhang**, Elke Rundensteiner, Cheikh Ba. *IEEE Access. 2024.*
 - [[paper]](assets/document/Access_2024_Extracting.pdf)
